@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+        Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fafafa;
+    color: #212121;
+    line-height: 1.5;
+}
+.breed-select{margin-bottom: 40px;}
+
+img {
+    display: inline-block;
+    max-width: 50%;
+}
+.cat-info {
+    /* margin-bottom: 40px; */
+    display: flex;
+    gap: 40px;}
+
+.cats-story {display: flex;
+flex-direction: column;}
