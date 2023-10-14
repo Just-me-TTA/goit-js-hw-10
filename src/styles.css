@@ -30,3 +30,6 @@ img {
 
 .cats-story {display: flex;
 flex-direction: column;}
+
+.loader {font-size: 48px;
+    font-weight:bold;}
